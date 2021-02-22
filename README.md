@@ -28,4 +28,4 @@ Location: C:\Windows\System32\drivers\etc\hosts
 ```
 
 ## Database Setup
-Import invocing.sql inside of the directory folder.
+Import invocing.sql inside of the directory folder. After that you can setup the database config in `application/config/database.php`
