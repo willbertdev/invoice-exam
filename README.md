@@ -29,3 +29,13 @@ Location: C:\Windows\System32\drivers\etc\hosts
 
 ## Database Setup
 Import invocing.sql inside of the directory folder. After that you can setup the database config in `application/config/database.php`
+
+
+## Employee Accounts
+```
+Username: christine.d@gmail.com
+Password: password123
+
+Username: raymond.r@gmail.com
+Password: password123
+```
